@@ -15,7 +15,7 @@ This project aims to help developers gain a deeper understanding of the **Spring
 
   * This project is suitable for framework source code enthusiasts with **prior Spring experience** or **several years of mainstream language development experience**.
   * This project is based on **Spring 5.16** for secondary customization and learning. Please ensure your local environment is compatible with this version.
-  * For environment setup, please refer to: [IntelliJ IDEA Importing Spring Source Code Tutorial](http://www.glorze.com/1617.html).
+  * For environment setup, please refer to: [IntelliJ IDEA Importing Spring Source Code Tutorial](https://blog.csdn.net/xhmico/article/details/130612527).
 
 -----
 
@@ -73,7 +73,7 @@ To clearly identify contributed code, please follow these naming conventions:
 
 1.  **Fork** this repository to your GitHub account.
 2.  **Clone** your forked repository to your local machine.
-3.  Configure your development environment according to the [IntelliJ IDEA Importing Spring Source Code Tutorial](http://www.glorze.com/1617.html).
+3.  Configure your development environment according to the [IntelliJ IDEA Importing Spring Source Code Tutorial](https://blog.csdn.net/xhmico/article/details/130612527).
 4.  Based on your intended contribution, **create an Issue** for discussion.
 5.  Modify the code locally (add comments or write test cases), following the guidelines above.
 6.  Commit your changes to your forked repository.
