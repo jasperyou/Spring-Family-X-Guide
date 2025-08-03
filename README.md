@@ -7,7 +7,7 @@
 
 本项目旨在通过**添加精简注释**和**提供单元测试**来帮助开发者更深入地理解 **Spring 5 框架**的核心原理与设计思想。我们致力于创建一个高质量的学习资源，让Spring源码的学习过程变得更加友好和高效。
 
-**简体中文** · [English](./README.en-US.md)  · [Changelog](./CHANGELOG.md) · [Open an issue][github-issues-link]
+**简体中文** · [English](./README.en-US.md)  · [变更日志](./CHANGELOG.md) · [开启新话题][https://github.com/jasperyou/spring-guide-x/issues/new]
 
 
 ## ⚠️ 注意事项
