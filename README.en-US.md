@@ -7,7 +7,7 @@
 
 This project aims to help developers gain a deeper understanding of the **Spring 5 framework's** core principles and design by **adding concise comments** and **providing unit tests**. We are committed to creating a high-quality learning resource that makes the process of studying Spring source code more accessible and efficient.
 
-**English** · [简体中文](./README.md) · [Changelog](./CHANGELOG.md) · [Open an issue][github-issues-link]
+**English** · [简体中文](./README.md) · [Changelog](./CHANGELOG.md) · [Open an Issue](https://github.com/jasperyou/spring-guide-x/issues/new)
 
 -----
 
