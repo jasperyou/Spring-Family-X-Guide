@@ -14,7 +14,7 @@
 
 * 本项目适合具有**Spring 使用经验**或**多年主流语言开发经验**的框架源码爱好者。
 * 本项目基于 **Spring 5.16** 版本进行二次定制开发和学习，请确保您的本地环境与此版本兼容。
-* 环境配置请参考：[IntelliJ IDEA 导入 Spring 源码教程](http://www.glorze.com/1617.html)。
+* 环境配置请参考：[IntelliJ IDEA 导入 Spring 源码教程](https://blog.csdn.net/xhmico/article/details/130612527)。
 
 ---
 
@@ -72,7 +72,7 @@
 
 1.  **Fork** 本仓库到您的 GitHub 账户。
 2.  将 Fork 后的仓库 **Clone** 到本地。
-3.  根据 [IntelliJ IDEA 导入 Spring 源码教程](http://www.glorze.com/1617.html) 配置您的开发环境。
+3.  根据 [IntelliJ IDEA 导入 Spring 源码教程](https://blog.csdn.net/xhmico/article/details/130612527) 配置您的开发环境。
 4.  根据您打算贡献的内容，**创建 Issue** 进行讨论。
 5.  在本地修改代码（添加注释或编写测试用例），并遵循上述规范。
 6.  提交您的修改到您的 Fork 仓库。
