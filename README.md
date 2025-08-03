@@ -1,26 +1,22 @@
-# The Spring Family X guide 
-#### *Warning*
 
-+ 本项目适合有一年以上 Spring 使用经验的小伙伴 或 多年主流语言开发经验的朋友.
-+ 本项目基于 Spring-5.16 并在此基础上进行二次定制开发学习. 
-+ 环境配置参考 -> [IntelliJ IDEA 导入 Spring 源码教程](http://www.glorze.com/1617.html)
 
-#### Pull request standard
+## Spring Family X 指南
 
-1. 禁止修改源码,  可在Spring 允许的情况下做扩展.
-2. 允许对 Spring源码进行精简注释.
-3. 扩展的代码或测试用例只能存放在要在 test 目录.
-4.  test 目录下的如果超过一个类则请 新建 package 并以X 结尾.如果只有一个类 则类名用 X 结尾.
-5. PR前建议  请先 [Issue](https://github.com/XiaoZiShan/Spring-Family-X-Guide/issues/new) 再 PR. 
+### ⚠️ 注意事项
 
-#### Changes logs 
+* 本项目适合具有**Spring 使用经验**或**多年主流语言开发经验**的框架源码爱好者。
+* 本项目基于 **Spring 5.16** 版本进行二次定制开发和学习。
+* 环境配置请参考：[IntelliJ IDEA 导入 Spring 源码教程](http://www.glorze.com/1617.html)
 
-+ 2019.8.11 Push SpringBoot-Starter [WebSocket Demo](https://github.com/XiaoZiShan/SpringFamily-SourceCodeStudy/blob/master/SpringBoot-Starter-WebSocket/SpringBoot-Starter-WebSocket@2.16)
-![Alt text](https://github.com/XiaoZiShan/SpringFamily-SourceCodeStudy/blob/master/SpringBoot-Starter-WebSocket/SpringBoot-Starter-WebSocket@2.16/Demo-README.png?raw=true)
 
-+ 2020.5.28 Push Base on Spring-5.16 add My new Test Case and SourceCode Annotation
+### 拉取请求 (Pull Request) 规范
 
-+ 2020.9.4 Push SpringCloud-starter-alibaba-nacos-Discovery - [Provider and Consumer Demo](https://github.com/XiaoZiShan/SpringFamily-SourceCodeStudy)
+1.  **禁止修改 Spring 源码**。您可以在 Spring 允许的范围内进行扩展。
+2.  允许对 Spring 源码添加**精简注释**。
+3.  所有扩展代码或测试用例**必须**存放在 `test` 目录。
+4.  在 `test` 目录下：
+    * 如果存在**多个**类，请新建一个以 `X` 结尾的包（package）来存放。
+    * 如果**只有单个**类，请将类名以 `X` 结尾。
+5.  在提交 Pull Request 前，建议您先创建 [Issue](https://github.com/XiaoZiShan/Spring-Family-X-Guide/issues/new) 进行讨论。
 
-![Alt text](https://github.com/XiaoZiShan/SpringFamily-SourceCodeStudy/blob/master/Spring-Cloud/Alibaba/Nacos/nacos-demo/Nacos-Discovery.png?raw=true)
-
+---
