@@ -1,9 +1,13 @@
-<div align="center"><a name="readme-top"></a>
-
-<img height="120" src="https://github.com/jasperyou/spring-guide-x/blob/master/Spring_Framework_Logo_2018.svg.png">
+<div align="center">
+  <br />
+  <br />
+  <a><img width=500 alt="Spring" src="https://github.com/jasperyou/spring-guide-x/blob/master/Spring_Framework_Logo_2018.svg.png"></a>
+  <br />
+  <h3>The guide dissects the Spring 5 framework source code to explain its inner workings for beginners.</h3>
+  <br />
 </div>
 
-# Spring Guide X
+# Spring5 Guide X
 
 This project aims to help developers gain a deeper understanding of the **Spring 5 framework's** core principles and design by **adding concise comments** and **providing unit tests**. We are committed to creating a high-quality learning resource that makes the process of studying Spring source code more accessible and efficient.
 
@@ -14,14 +18,14 @@ This project aims to help developers gain a deeper understanding of the **Spring
 ## ⚠️ Important Notes
 
   * This project is suitable for framework source code enthusiasts with **prior Spring experience** or **several years of mainstream language development experience**.
-  * This project is based on **Spring 5.16** for secondary customization and learning. Please ensure your local environment is compatible with this version.
+  * This project is based on **Spring 5.1.16** for secondary customization and learning. Please ensure your local environment is compatible with this version.
   * For environment setup, please refer to: [IntelliJ IDEA Importing Spring Source Code Tutorial](https://blog.csdn.net/xhmico/article/details/130612527).
 
 -----
 
 ## 🎯 Project Goals
 
-  * Provide **concise, accurate English comments** for the key code within Spring 5.16's core modules.
+  * Provide **concise, accurate English comments** for the key code within Spring 5.1.16's core modules.
   * Supplement with **clear, effective unit tests** to demonstrate Spring features or validate specific functionalities.
   * Establish an **open collaboration platform** to encourage community members to learn and contribute together.
 
