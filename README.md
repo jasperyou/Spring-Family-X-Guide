@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <br />
-  <a><img width=600 alt="Spring" src="https://github.com/jasperyou/spring-guide-x/blob/master/Spring_Framework_Logo_2018.svg.png"></a>
+  <a><img width=500 alt="Spring" src="https://github.com/jasperyou/spring-guide-x/blob/master/Spring_Framework_Logo_2018.svg.png"></a>
   <br />
   <h3>The guide dissects the Spring 5 framework source code to explain its inner workings for beginners.</h3>
   <br />
