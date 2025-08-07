@@ -86,6 +86,6 @@ To clearly identify contributed code, please follow these naming conventions:
 
 -----
 
-Thank you for your interest and support in Spring Guide X\! Let's build a better Spring framework learning project together\!
+Thank you for your interest and support in Spring5 Guide X\! Let's build a better Spring framework learning project together\!
 
 -----
