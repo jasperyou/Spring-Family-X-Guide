@@ -3,11 +3,11 @@
   <br />
   <a><img width=600 alt="Spring" src="https://github.com/jasperyou/spring-guide-x/blob/master/Spring_Framework_Logo_2018.svg.png"></a>
   <br />
-  <h3>Spring Guide X is a guide for code lovers that explains the Spring 5 version source code.</h3>
+  <h3>Spring 5 Guide X dissects the Spring 5 framework's source code to explain its inner workings.</h3>
   <br />
 </div>
 
-# Spring Guide X 指南
+# Spring5 Guide X 指南
 
 本项目旨在通过**添加精简注释**和**提供单元测试**来帮助开发者更深入地理解 **Spring 5 框架**的核心原理与设计思想。我们致力于创建一个高质量的学习资源，让Spring源码的学习过程变得更加友好和高效。
 
@@ -17,7 +17,7 @@
 ## ⚠️ 注意事项
 
 * 本项目适合具有**Spring 使用经验**或**多年主流语言开发经验**的框架源码爱好者。
-* 本项目目前基于 **Spring 5.1.6** 进行二次定制开发和学习，请确保您的本地环境与此版本兼容, 下一步计划升级到最终版本 5.3.39 。
+* 本项目目前基于 **Spring 5.1.6** 进行二次定制开发和学习，请确保您的本地环境与此版本兼容。
 * 环境配置请参考：[IntelliJ IDEA 导入 Spring 源码教程](https://blog.csdn.net/xhmico/article/details/130612527)。
 
 ---
