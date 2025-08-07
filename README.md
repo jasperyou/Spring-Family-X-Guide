@@ -3,7 +3,7 @@
   <br />
   <a><img width=600 alt="Spring" src="https://github.com/jasperyou/spring-guide-x/blob/master/Spring_Framework_Logo_2018.svg.png"></a>
   <br />
-  <h3>Spring 5 Guide X dissects the Spring 5 framework's source code to explain its inner workings.</h3>
+  <h3>The guide dissects the Spring 5 framework source code to explain its inner workings for beginners.</h3>
   <br />
 </div>
 
